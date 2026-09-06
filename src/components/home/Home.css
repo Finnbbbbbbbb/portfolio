@@ -23,7 +23,7 @@
 }
 
 .home__socials {
-  display: flex;
+  display: block;
   column-gap: 1.75rem;
   margin: 1.5rem 0;
 }

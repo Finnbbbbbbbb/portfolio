@@ -1,39 +1,57 @@
-import Work1 from "../../assets/native-jobs.png";
-import Work2 from "../../assets/cryptoverse.png";
-import Work3 from "../../assets/travel.png";
-import Work4 from "../../assets/blog-1.svg";
+import Work1 from "../../assets/image2.jpg";
+import Work2 from "../../assets/image1.jpg";
+import Work3 from "../../assets/image3.jpg";
+import Work4 from "../../assets/image4.jpg";
+import Work5 from "../../assets/image5.jpg";
+import Work6 from "../../assets/image6.jpg";
+
 
 const Menu = [
 	{
 		id: 1,
 		image: Work1,
-		title: "React Native Jobs App",
-		category: ["Frontend", "React"],
-		repositoryUrl: "https://github.com/GregSithole/react-native-jobs"
+		title: "Space invader",
+		category: ["Game"],
+		url: "https://finnbbbbbbbb.itch.io/spaceinvader"
 	},
 	{
 		id: 2,
 		image: Work2,
-		title: "Cryptoverse",
-		category: ["Frontend", "React"],
-		url: "https://cryptoverse.gregsithole.com",
+		title: "Snake Game",
+		category: ["Game"],
+		url: "https://finnbbbbbbbb.itch.io/snake-game",
 		repositoryUrl: "https://github.com/GregSithole/crypto-app"
 	},
 	{
 		id: 3,
 		image: Work3,
-		title: "Travel Advisor",
-		category: ["Frontend"],
-		url: "https://travel.gregsithole.com",
+		title: "Flappy bird",
+		category: ["Game"],
+		url: "https://finnbbbbbbbb.itch.io/flappy-bird",
 		repositoryUrl: "https://github.com/GregSithole/travel-advisor"
 	},
 	{
 		id: 4,
 		image: Work4,
-		title: "Wallhaven CLI",
-		category: ["Backend"],
-		url: "https://www.npmjs.com/package/wallhaven-cli",
+		title: "Pac man",
+		category: ["Game"],
+		url: "https://finnbbbbbbbb.itch.io/pacman",
 		repositoryUrl: "https://github.com/GregSithole/wallhaven-cli"
+	},
+	{
+		id: 5,
+		image: Work5,
+		title: "World cup",
+		category: ["Data Science"],
+		repositoryUrl: "https://github.com/GregSithole/travel-advisor"
+	},
+	{
+		id: 6,
+		image: Work6,
+		title: "Titanic",
+		category: ["Data Science"],
+		url: "https://predicttitanic.streamlit.app",
+		repositoryUrl: "https://github.com/GregSithole/travel-advisor"
 	}
 ];
 
